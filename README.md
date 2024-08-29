@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm an undergraduate at UCSC
 
 <!--
 **liki-ch/liki-ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
